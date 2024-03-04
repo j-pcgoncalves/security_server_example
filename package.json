@@ -1,0 +1,12 @@
+{
+  "name": "security_server_example",
+  "version": "1.0.0",
+  "description": "This is a simple Project to learn the basics of how to secure a web server and how to use security best pratices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
